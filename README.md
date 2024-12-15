@@ -1,3 +1,3 @@
 <h1> Travel </h1>
 
-<img src="Travel.png"/>
+<a href="https://wonderful-chimera-408455.netlify.app"><img src="Travel.png"/></a>
