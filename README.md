@@ -1,4 +1,4 @@
-<h1>Wireframe</h1>
+<h1> Wireframe </h1>
 <a href="https://dashing-gelato-1ecdcd.netlify.app"><img src="wireframe.png"></a>
 https://dashing-gelato-1ecdcd.netlify.app
 
