@@ -10,9 +10,9 @@ https://wonderful-chimera-408455.netlify.app
 
 <h1> Mustacchio </h1>
 <a href="https://adorable-griffin-b2b6b8.netlify.app"><img src="mustacchio.png"></a>
-adorable-griffin-b2b6b8.netlify.app
+https://adorable-griffin-b2b6b8.netlify.app
 
 
 <h1> Domino's </h1>
 <a href="https://friendly-cuchufli-679a44.netlify.app"><img src="domino_s.png"></a>
-friendly-cuchufli-679a44.netlify.app
+https://friendly-cuchufli-679a44.netlify.app
