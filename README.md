@@ -21,3 +21,8 @@ https://friendly-cuchufli-679a44.netlify.app
 <h1> Form </h1>
 <a href="https://lighthearted-lokum-d95b0d.netlify.app"><img src="form.png"></a>
 https://lighthearted-lokum-d95b0d.netlify.app
+
+
+<h1> Practical Exam </h1>
+<a href="https://warm-clafoutis-782040.netlify.app"><img src="practical exam.png"></a>
+https://warm-clafoutis-782040.netlify.app
